@@ -2,15 +2,18 @@
   "people": [
     {
       "id": 1,
-      "firstname": "Dave"
+      "firstname": "Dave",
+      "lastname": "Smith"
     },
     {
       "id": 2,
-      "firstname": "Bill"
+      "firstname": "Bill",
+      "lastname": "Jones"
     },
     {
       "id": 3,
-      "firstname": "Jim"
+      "firstname": "Jim",
+      "lastname": "Edison"
     }
   ]
 }
