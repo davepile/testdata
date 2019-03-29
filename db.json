@@ -1,19 +1,36 @@
 {
-  "people": [
-    {
-      "id": 1,
-      "firstname": "Dave",
-      "lastname": "Smith"
-    },
-    {
-      "id": 2,
-      "firstname": "Bill",
-      "lastname": "Jones"
-    },
-    {
-      "id": 3,
-      "firstname": "Jim",
-      "lastname": "Edison"
-    }
-  ]
+    "people": [
+        {
+            "id": 1,
+            "firstname": "Dave",
+            "lastname": "Smith"
+        },
+        {
+            "id": 2,
+            "firstname": "Bill",
+            "lastname": "Jones"
+        },
+        {
+            "id": 3,
+            "firstname": "Jim",
+            "lastname": "Edison"
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "subject": "Hello",
+            "body": "Hello Body"
+        },
+        {
+            "id": 2,
+            "subject": "Goodbye",
+            "body": "Seeya Buddy"
+        },
+        {
+            "id": 3,
+            "subject": "Cheers",
+            "body": "Big Ears"
+        }
+    ]
 }
